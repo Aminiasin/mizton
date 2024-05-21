@@ -62,7 +62,7 @@ const DataProvider = ({ children }) => {
       >
         <Box
           sx={{
-            display: "flex", // Añade esto
+            display: "flex", // Añade esta cosa
             flexDirection: "column", // Cambia la dirección del flexbox a columna
             justifyContent: "center", // Centra los elementos verticalmente
             alignItems: "center", // Centra los elementos horizontalmente
